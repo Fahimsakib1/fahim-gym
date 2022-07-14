@@ -1,0 +1,115 @@
+/* Section  Eight Register CSS Code Starts From Here */
+
+.section-form{
+    margin-bottom: 30px;
+}
+
+.section-form h1{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 60px;
+    color: blue;
+
+}
+
+#section-form-div1{
+    width: 61%;
+    background-color: #FEE897;
+    margin-left: 300px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#form-middle-div{
+    width: 50%;
+    background-color: #d97ef2;
+    /* background-color: #CFCECC; */
+    margin-left: 183px;
+    padding-left: 60px;
+    padding-right: 30px;
+    border-radius: 20px;
+    padding-bottom: 40px;
+    border: 5px solid black;
+
+}
+
+
+form{
+    padding-top: 40px;
+    /* margin-left: 255px; */
+}
+
+form p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 12px;
+}
+
+
+form textarea{
+    border: none;
+    border: 2px solid blue;
+    border-radius: 15px;
+}
+
+
+form input{
+    width: 420px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    border: 2px solid blue;
+   
+}
+
+form ::placeholder{
+    font-size: 18px;
+   
+}
+
+#form-submit-button{
+    width: 30%;
+    font-size: 22px;
+    padding: 10px 30px;
+    /* background-color:rgb(226, 204, 30); */
+    background-image: linear-gradient(orange, tomato);
+    border: none;
+    margin-left: 32px;
+    border-radius: 10px;
+    margin-right: 90px;
+    
+}
+
+#form-submit-button:hover{
+    /* background-color: limegreen; */
+    background-image: linear-gradient(rgb(26, 119, 26),limegreen);
+    color: white;
+}
+
+#form-reset-button{
+    width: 30%;
+    font-size: 22px;
+    padding: 10px 30px;
+    background-color:rgb(42, 216, 243);
+    border: none;
+    border-radius: 10px;
+    
+}
+
+#form-reset-button:hover{
+    background-color: #f14747;
+}
+
+form select{
+    /* width: 235px; */
+    width: 256px;
+    height: 33px;
+    border: none;
+    border: 2px solid blue;
+    border-radius: 10px;
+    font-size: 18px;
+    padding-left: 10px;
+    margin-top: 15px;
+}
