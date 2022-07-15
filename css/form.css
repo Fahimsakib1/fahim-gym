@@ -1,4 +1,4 @@
-/* Section  Eight Register CSS Code Starts From Here */
+/* Register Form CSS Code Starts From Here */
 
 .section-form{
     margin-bottom: 30px;
@@ -25,7 +25,6 @@
 #form-middle-div{
     width: 50%;
     background-color: #d97ef2;
-    /* background-color: #CFCECC; */
     margin-left: 183px;
     padding-left: 60px;
     padding-right: 30px;
@@ -73,7 +72,6 @@ form ::placeholder{
     width: 30%;
     font-size: 22px;
     padding: 10px 30px;
-    /* background-color:rgb(226, 204, 30); */
     background-image: linear-gradient(orange, tomato);
     border: none;
     margin-left: 32px;
@@ -83,7 +81,6 @@ form ::placeholder{
 }
 
 #form-submit-button:hover{
-    /* background-color: limegreen; */
     background-image: linear-gradient(rgb(26, 119, 26),limegreen);
     color: white;
 }

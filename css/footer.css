@@ -14,12 +14,6 @@ footer h2{
     font-size: 20px;
 }
 
-/* #footer-span-1{
-    color: orange;
-}
-#footer-span-2{
-    color: limegreen;
-} */
 
 footer p{
     text-align: center;
@@ -81,9 +75,7 @@ footer p{
     color: white;
     border: 2px solid sienna;
     border-radius: 10px;
-    /* box-shadow: 2px 2px 2px skyblue; */
-
-    
+ 
 }
 
 .social-media a:hover i{
